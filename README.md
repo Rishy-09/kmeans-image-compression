@@ -38,5 +38,5 @@ K-Means takes a different route — it compresses the image by reducing **color 
 
 ---
 
-Built using concepts from @AndrewYNg’s Machine Learning Specialization.
+Built using concepts from Andrew Ng’s Machine Learning Specialization.
 
