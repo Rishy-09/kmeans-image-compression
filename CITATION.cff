@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this project in your work, please cite it as below."
+authors:
+  - family-names: "Chanana"
+    given-names: "Naman"
+title: "K-Means Image Compression"
+abstract: "A from-scratch NumPy implementation of K-Means color quantization for image compression experiments, including CLI usage and quantitative MSE/PSNR benchmarking."
+date-released: 2026-11-20
+url: "https://github.com/Rishy-09/kmeans-image-compression"
+repository-code: "https://github.com/Rishy-09/kmeans-image-compression"
+license: MIT
+keywords:
+  - k-means
+  - image compression
+  - color quantization
+  - image processing
+  - unsupervised learning
+  - NumPy
