@@ -5,6 +5,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
 ![Algorithm](https://img.shields.io/badge/Algorithm-K--Means-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
+[![CI](https://github.com/Rishy-09/kmeans-image-compression/actions/workflows/ci.yml/badge.svg)](https://github.com/Rishy-09/kmeans-image-compression/actions/workflows/ci.yml)
 
 A from-scratch implementation of **K-Means clustering for image color quantization**, built with NumPy.
 
